@@ -1,8 +1,8 @@
 ---
-share: True
+share: true
 ---
-???+ Info "Spire Blast Project File"
-	Project Link: [[Spire Blast]]
+> [!Info]+ Spire Blast Project File
+> Project Link: [[Spire Blast]]
 ## Plansze
 - Czy gracz obraca wieże?
 - Czy gracz strzela w inną część wieży niż jest smok?
