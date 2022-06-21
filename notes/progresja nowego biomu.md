@@ -1,5 +1,5 @@
 ---
-share: true
+share: True
 ---
 # Dystans
 *Patrz: [[statystyki biomów#dystans pomiędzy choke pointami]]*

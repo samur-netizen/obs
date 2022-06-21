@@ -1,7 +1,6 @@
 ---
-share: true
+share: True
 ---
-
 ## Piotrek twierdzi że L391 jest nie do przejścia
 Filmik z jego playthrough:
 https://orbitalknight.slack.com/archives/C0116N41D5K/p1655804303834339

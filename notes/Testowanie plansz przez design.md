@@ -1,8 +1,8 @@
 ---
-share: true
+share: True
 ---
-> [!Info]+ Spire Blast Project File
-> Project Link: [[Spire Blast]]
+???+ Info "Spire Blast Project File"
+	Project Link: [[Spire Blast]]
 ## Intencja :fas_star:
 - Testowanie 
 	- powinno znajdywać najczęstsze problemy z grywalnością plansz:
