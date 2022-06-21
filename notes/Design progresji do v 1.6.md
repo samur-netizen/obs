@@ -1,6 +1,7 @@
 ---
-share: True
+share: true
 ---
+
 Co ile zwykłych plansz robić [[choke point]]?
 - 4-5 to minimalny dystans?
 
@@ -30,3 +31,9 @@ Czy nie za rzadko na planszach pojawiają się [[side towers]]? [[do analizy]]
 Mamy plansze gdzie [[side shooter]] wlatuje w środku wieży? [[do analizy]]
 
 Czy są [[choke point]] które mają mniej mechanik? [[do analizy]]
+
+
+
+
+
+

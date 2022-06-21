@@ -1,20 +1,21 @@
 ---
-share: True
+share: true
 ---
-???+ INFO
-	groups: [[notes]] | [[topic notes]]
-	context: [[c: general]]
-	tags: 
+
+> [!INFO]+
+> groups: [[notes]] | [[topic notes]]
+> context: [[c: general]]
+> tags: 
 
 # Issues
-???+ NOTE ""
-	Gracz jest zmuszany do ich rozwalania i często musi rozwalać pojedyncze klocki
+> [! PROBLEM]+ 
+> Gracz jest zmuszany do ich rozwalania i często musi rozwalać pojedyncze klocki
 
 ## Przyciągać lewitujące klocki do siebie
 - [!]  
 ![[CleanShot 2022-05-19 at 19.35.17.png]]
 
-- [x] Klocki lewitujące, które nie mają sąsiadów w ustalonym radiusie powinny być przyciągane przez najbliższe klocki. **todo**{: #todo .hash} ✅ 2022-05-23
+- [x] Klocki lewitujące, które nie mają sąsiadów w ustalonym radiusie powinny być przyciągane przez najbliższe klocki. #todo ✅ 2022-05-23
 	- Pytanie które można przyciągać?
 		- Całkiem puste? Tylko, że jest jeszcze częsty problem ze strukturą: lewitujący z jednym klockiem regularnym na nim.
 		- Może przyciąganie tylko pustych starczy.
@@ -34,3 +35,4 @@ share: True
 
 - [ ] Klocki lewitujące, które nie stoją na żadnych klockach powinny opadać 
 	- To sprawia, że klocki znajdujące się na nich też opadają.
+
