@@ -1,11 +1,10 @@
 ---
-share: true
+share: True
 ---
-
-> [!INFO]+
-> groups: [[notes]] | [[topic notes]]
-> context: [[c: general]]
-> tags: 
+???+ INFO
+	groups: [[notes]] | [[topic notes]]
+	context: [[c: general]]
+	tags: 
 
 # Pierwsze i trochę późniejsze wrażenia
 - Michał ją inaczej zaimplementował niż myślałem, ale taka prostota fajnie działa.
@@ -31,13 +30,13 @@ share: true
 
 ## Issues i pomysły
 - Fajnie jak wybuch pojedynczego klocka rozwali chociaż jeden klocek obok. Jeszcze fajniej jak zmatchuje więcej jak jeden, bo wtedy efekty tego wybuchu się chainują.
-> [! Problem]+
-> Nie jest fajne jak pojedynczy klocek wybuchnie i nie zniszczy swojego sąsiada.
+???+ NOTE
+	Nie jest fajne jak pojedynczy klocek wybuchnie i nie zniszczy swojego sąsiada.
 
 - Może wybuch nie powinien być na radiusie?
-> [! Nie widać co się dzieje]
-> Nie widać zasięgu wybuchu po samym wybuchu.
-> 
+!!! NOTE
+	Nie widać zasięgu wybuchu po samym wybuchu.
+	
 ![[CleanShot 2022-05-20 at 16.10.33.gif]]
 
 [[2022-05-20]]
@@ -56,9 +55,9 @@ share: true
 		- [!] Patrz co się dzieje z ostatnim szarym klockiem![[CleanShot 2022-05-23 at 20.53.31.gif]]
 	- Czasami te zainfekowane bardzo szybko znikają, nawet na wieży bez innych mechanik.
 		- Wydaje mi się, że to jest związane z:
->[!PROBLEM]+ Zainfekowane mogą szybciej być zniszczone jako efekt innej mechaniki
-> Zainfekowane zanim wybuchną mogą wybuchnąć zmatchowane przez inne klocki albo jak efekt innej mechaniki
-> Odpowiedzią na ten problem jest: [[#Lewitujący klocek w który strzelę nie powinien od razu się rozwalać]]
+???+ NOTE "Zainfekowane mogą szybciej być zniszczone jako efekt innej mechaniki"
+	Zainfekowane zanim wybuchną mogą wybuchnąć zmatchowane przez inne klocki albo jak efekt innej mechaniki
+	Odpowiedzią na ten problem jest: [[#Lewitujący klocek w który strzelę nie powinien od razu się rozwalać]]
 # Lewitujący klocek w który strzelę nie powinien od razu się rozwalać
 - Trafiony lewitujący klocek odpala efekt zainfekowania swoich sąsiadów
 - Ten klocek sam staje się zainfekowany i jest niszczony dopiero wraz z niszczeniem innych zainfekowanych klocków
@@ -71,5 +70,5 @@ share: true
 Wstrzymujemy prace nad [[Levitating blocks]] na rzecz [[Flytrap]].
 
 [[2022-06-01]]
-> [! IDEA] Rozwalony levitating block uwalnia energię która niszczy klocki w linii
->Rozwalenie levitating uwalnia z niego energię która rozwala wszystkie klocki w linii. Linią, jej kierunek mógłby określać linia matcha. Po prostu kierunek energii byłby kontynuację tego metcha, tej linii, tego ciągu 
+!!! NOTE "Rozwalony levitating block uwalnia energię która niszczy klocki w linii"
+	Rozwalenie levitating uwalnia z niego energię która rozwala wszystkie klocki w linii. Linią, jej kierunek mógłby określać linia matcha. Po prostu kierunek energii byłby kontynuację tego metcha, tej linii, tego ciągu

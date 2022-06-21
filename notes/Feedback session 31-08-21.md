@@ -1,7 +1,6 @@
 ---
-share: true
+share: True
 ---
-
 # problem z [[poziom trudności]] 
 "This game started great but ended up feeling like a freemium game. It required that I use power ups constantly." ^2e4046
 
@@ -78,10 +77,3 @@ problem z komunikacją [[scoring]]:
 
 zmiana dynamiki plansz
 "When I got to about [[L35]] it changes nature from being a fast, joyful, blast-away game to being one that needs planning and timing that includes sitting and waiting for the right moment. As I go further, success on a level depends a lot on luck, too. If the blocks of given colors don’t align properly, it can be impossible to get three stars. Just keep playing for the right happenstance. The result of this is that it is a game I like less the more I play it. On the other hand, I didn’t pay any money for it, either. Apple Arcade makes it so it’s easy to play a game until it is no fun any more and move on. I am almost to the point of moving on. It is just more of the same every level only less fun after each victory." ^60bfe9
-
-
-
-
-
-
-
