@@ -1,6 +1,7 @@
 ---
-share: True
+share: true
 ---
+
 # metodologia
 ## [[dystans pomiędzy choke pointami]]
 ![[SB progression balance parametr - distance.png]]
